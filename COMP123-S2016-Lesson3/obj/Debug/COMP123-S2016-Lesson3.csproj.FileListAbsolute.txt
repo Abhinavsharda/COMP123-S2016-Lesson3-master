@@ -1,0 +1,6 @@
+C:\Users\300868625\Desktop\COMP123-S2016-Lesson3-master\COMP123-S2016-Lesson3\bin\Debug\COMP123-S2016-Lesson3.exe.config
+C:\Users\300868625\Desktop\COMP123-S2016-Lesson3-master\COMP123-S2016-Lesson3\bin\Debug\COMP123-S2016-Lesson3.exe
+C:\Users\300868625\Desktop\COMP123-S2016-Lesson3-master\COMP123-S2016-Lesson3\bin\Debug\COMP123-S2016-Lesson3.pdb
+C:\Users\300868625\Desktop\COMP123-S2016-Lesson3-master\COMP123-S2016-Lesson3\obj\Debug\COMP123-S2016-Lesson3.csprojResolveAssemblyReference.cache
+C:\Users\300868625\Desktop\COMP123-S2016-Lesson3-master\COMP123-S2016-Lesson3\obj\Debug\COMP123-S2016-Lesson3.exe
+C:\Users\300868625\Desktop\COMP123-S2016-Lesson3-master\COMP123-S2016-Lesson3\obj\Debug\COMP123-S2016-Lesson3.pdb
